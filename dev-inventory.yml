@@ -1,0 +1,7 @@
+---
+all: 
+  host:
+  
+  children:
+    dev:
+      hosts:
